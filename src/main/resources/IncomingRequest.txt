@@ -1,0 +1,18 @@
+[
+    {
+        "requestId":1,
+        "hours":10,
+        "cpus":7,
+        "price":20.0
+    },
+    {
+        "requestId":2,
+        "hours":20,
+        "cpus":10
+    },
+    {
+        "requestId":3,
+        "cpus":30,
+        "price":55.75
+    }
+]

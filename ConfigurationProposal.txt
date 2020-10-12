@@ -1,0 +1,31 @@
+{1=[
+{
+    "region":"asia",
+    "total_cost":"$7.0",
+    "servers":[("xlarge", 5)]
+}, 
+{
+    "region":"us-west",
+    "total_cost":"$7.742",
+    "servers":[("2xlarge", 2), ("large", 2)]
+}, 
+{
+    "region":"us-east",
+    "total_cost":"$7.9799999999999995",
+    "servers":[("2xlarge", 2), ("large", 2)]
+}], 2=[
+{
+    "region":"asia",
+    "total_cost":"$20.0",
+    "servers":[("xlarge", 5)]
+}, 
+{
+    "region":"us-west",
+    "total_cost":"$22.12",
+    "servers":[("2xlarge", 2), ("large", 2)]
+}, 
+{
+    "region":"us-east",
+    "total_cost":"$22.8",
+    "servers":[("2xlarge", 2), ("large", 2)]
+}], 3=[]}
